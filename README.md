@@ -5,6 +5,14 @@
 Demo link : https://youtube.com/shorts/xIvpsd0aPk8?feature=share
 
 
+<img width="238" height="267" alt="image" src="https://github.com/user-attachments/assets/62a84219-edcf-4ae8-b3e4-30f90fdf7a8b" />
+
+
+<img width="198" height="162" alt="image" src="https://github.com/user-attachments/assets/70b5f502-1bbc-4dcc-a971-af0a62f5496a" />
+
+
+
+
 # Parts used
 
 1) ESP32 Wroom 32
