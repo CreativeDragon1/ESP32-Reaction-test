@@ -72,7 +72,7 @@ See [`BOM.csv`](./BOM.csv) for purchase links.
 ### Upload
 
 1. Clone or download this repo
-2. Open the `.ino` file in Arduino IDE
+2. Open `esp32-code/esp32_reaction_test/esp32_reaction_test.ino` in Arduino IDE
 3. Select board: **ESP32 Dev Module**
 4. Select the correct COM port
 5. Click **Upload**
@@ -94,11 +94,15 @@ See [`BOM.csv`](./BOM.csv) for purchase links.
 ## Project Structure
 
 ```
-f1-reaction-tester/
-├── f1_reaction_tester.ino   # Main Arduino sketch
+ESP32-Reaction-test/
+├── esp32-code/
+│   └── esp32_reaction_test/
+│       └── esp32_reaction_test.ino   # Main ESP32 Arduino sketch
 ├── README.md
 └── BOM.csv
 ```
+
+The ESP32 firmware is now isolated under `esp32-code/` so hardware code stays cleanly separated from docs and supporting files.
 
 ---
 
