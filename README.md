@@ -109,3 +109,9 @@ The ESP32 firmware is now isolated under `esp32-code/` so hardware code stays cl
 ## License
 
 MIT License — free to use, modify, and build on.
+
+---
+
+## AI Disclosure
+
+Used AI fort testing my components I was too lazy to write test code and for the commits
